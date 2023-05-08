@@ -8,11 +8,7 @@ Elementary container for starting development of NodeJS and MongoDB
 
 Run in your console:
 ```
-git clone https://github.com/meta3olic/simple-docker.git
-```
-Move to directory:
-```
-cd simple-docker
+git clone https://github.com/meta3olic/simple-docker.git && cd simple-docker.
 ```
 Start installing docker containers:
 ```
