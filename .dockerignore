@@ -1,0 +1,11 @@
+logs
+*.log
+node_modules
+server/*.spec.js
+kubernetes
+.idea
+.env.example
+.dockerignore
+docker-compose.yml
+Dockerfile
+LICENSE
