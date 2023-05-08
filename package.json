@@ -1,0 +1,20 @@
+{
+  "name": "simple-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "docker",
+    "nodejs",
+    "mongo"
+  ],
+  "author": "Nikita Aldashkov<nikitastart@yandex.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
